@@ -1,11 +1,11 @@
-package by.tr.mod4;
+package by.tr.mod4;// минимум 4 уровня в пакетах
 
 import java.util.Scanner;
 
 public class Multiplication {
 
     public static void main(String [] args) {
-    int a, b, result,expectedResult;
+    int a, b, result,expectedResult;// соблюдайте, пожалуйста, форматирование и code convention
     a = readFromConsole("Введите первый множитель");
     b = readFromConsole("Введите второй множитель");
     expectedResult = a * b;

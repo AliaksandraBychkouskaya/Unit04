@@ -75,3 +75,4 @@ public class Exchange {
         return result;
     }
 }
+// работа по модулю 4 зачтена
